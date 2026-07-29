@@ -1,0 +1,15 @@
+network,test,status,objective_value,r1032,r1389,glucose,oxygen,CO2,lactate,H2O,exchange_id
+config_hepatonet_fastcore_validated,r1032 objective,optimal,-1.0,-1.0,0.0,0.9999999999999997,0.0,0.0,0.0,-0.9999999999999997,
+config_hepatonet_fastcore_validated,Glc + 6O2 -> 6CO2 + 6H2O,optimal,6.0,0.9999999999998863,-5.854311406071618e-15,-1.0,-6.0,6.0,0.0,5.999999999999946,
+config_hepatonet_fastcore_validated,Glc -> 2 lactate,optimal,2.0,1.0,9.707782205004832e-15,-1.0,0.0,0.0,2.0,1.0729307183629623e-13,
+config_hepatonet_fastcore_validated,PhysiCell exchange ID: CO2,present,,,,,,,,,R_EX_HC00021_s
+config_hepatonet_fastcore_validated,PhysiCell exchange ID: glucose,present,,,,,,,,,R_EX_HC00040_s
+config_hepatonet_fastcore_validated,PhysiCell exchange ID: lactate,present,,,,,,,,,R_EX_HC00177_s
+config_hepatonet_fastcore_validated,PhysiCell exchange ID: oxygen,present,,,,,,,,,R_EX_HC00017_s
+config_hepatonet_zone3_fastcore_validated,r1389 objective,optimal,1.0,11.2037037037037,1.0,-11.2037037037037,-1.2222222222222225,1.2222222222222159,0.0,12.222222222222225,
+config_hepatonet_zone3_fastcore_validated,Glc + 6O2 -> 6CO2 + 6H2O,optimal,6.0,0.9999999999999684,0.0,-1.0,-6.0,6.0,0.0,5.999999999997624,
+config_hepatonet_zone3_fastcore_validated,Glc -> 2 lactate,optimal,2.0,1.0,3.378848437603546e-17,-1.0,0.0,0.0,2.0,2.003483883099179e-15,
+config_hepatonet_zone3_fastcore_validated,PhysiCell exchange ID: CO2,present,,,,,,,,,R_EX_HC00021_s
+config_hepatonet_zone3_fastcore_validated,PhysiCell exchange ID: glucose,present,,,,,,,,,R_EX_HC00040_s
+config_hepatonet_zone3_fastcore_validated,PhysiCell exchange ID: lactate,present,,,,,,,,,R_EX_HC00177_s
+config_hepatonet_zone3_fastcore_validated,PhysiCell exchange ID: oxygen,present,,,,,,,,,R_EX_HC00017_s

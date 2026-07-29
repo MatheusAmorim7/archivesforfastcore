@@ -1,0 +1,3 @@
+network,fastcore_reactions_input,compact_core_added,validated_reactions,validated_metabolites,xml_path
+zone12,1077,10,1087,807,/home/matheus/PhysiCelldFBA/notebooks/fastcore_outputs/official_fastcore/validated/zone12_official_fastcore_literature_validated_reduced.xml
+zone3,988,11,999,753,/home/matheus/PhysiCelldFBA/notebooks/fastcore_outputs/official_fastcore/validated/zone3_official_fastcore_literature_validated_reduced.xml

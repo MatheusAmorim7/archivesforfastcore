@@ -1,0 +1,20 @@
+[zone_1] ./config/hepatonet_fastcore_validated.xml
+objective R_r1032: present
+exchange oxygen R_EX_HC00017_s: present
+exchange glucose R_EX_HC00040_s: present
+exchange lactate R_EX_HC00177_s: present
+exchange CO2 R_EX_HC00021_s: present
+
+[zone_2] ./config/hepatonet_fastcore_validated.xml
+objective R_r1032: present
+exchange oxygen R_EX_HC00017_s: present
+exchange glucose R_EX_HC00040_s: present
+exchange lactate R_EX_HC00177_s: present
+exchange CO2 R_EX_HC00021_s: present
+
+[zone_3] ./config/hepatonet_zone3_fastcore_validated.xml
+objective R_r1389: present
+exchange oxygen R_EX_HC00017_s: present
+exchange glucose R_EX_HC00040_s: present
+exchange CO2 R_EX_HC00021_s: present
+exchange lactate R_EX_HC00177_s: present
