@@ -1,0 +1,35 @@
+reaction_id,module,role
+r1032,glucose_transport,Glc extracellular to cytosolic transport
+r1539,glucose_transport,Alternative sodium-coupled glucose uptake closed by default
+r0353,glucose_to_g6p,ATP-dependent glucose phosphorylation
+r0354,glucose_to_g6p,UTP-dependent glucose phosphorylation alternative
+r0355,glucose_to_g6p,ITP-dependent glucose phosphorylation alternative
+r0823,g6p_compartment_transport,G6P cytosol to ER Golgi transport
+r2473,g6p_compartment_transport,G6P phosphate antiport between cytosol and ER Golgi
+r0396,g6p_to_glucose,Glucose-6-phosphatase reaction
+r1031,g6p_to_glucose,Glucose cytosol to ER Golgi transport
+r0621,glycogen_module,G6P to glucose-1-phosphate
+r1387,glycogen_module,Glycogenin priming and glycogen synthesis step
+r1388,glycogen_module,Glycogen chain elongation step
+r1389,glycogen_module,Glycogen-related product step used in zone 3 calibration
+r1390,glycogen_module,Glycogen phosphorylase-like breakdown to glucose-1-phosphate
+r1391,glycogen_module,Glycogen degradation intermediate step
+r1392,glycogen_module,Glycogen hydrolysis step releasing glucose
+r1393,glycogen_module,Glycogen breakdown to glucose-1-phosphate and glycogenin
+r0171,lactate_pyruvate,LDH lactate to pyruvate reversible
+r0172,lactate_pyruvate,Mitochondrial lactate to pyruvate
+r0173,lactate_pyruvate,Peroxisomal lactate to pyruvate reversible
+r2097,lactate_pyruvate_transport,Pyruvate lactate antiport linking cytosol and extracellular compartment
+r0056,pyruvate_oxidation,Pyruvate dehydrogenase-like mitochondrial CO2-producing step
+r0057,pyruvate_oxidation,Pyruvate carbon dioxide reversible mitochondrial step
+r0058,pyruvate_oxidation,Cytosolic pyruvate carbon dioxide reversible step
+r0383,pyruvate_oxidation,Pyruvate carboxylase-related mitochondrial carbon dioxide connection
+r0855,oxygen_transport,O2 extracellular to cytosolic transport
+r0867,co2_transport,CO2 cytosolic to extracellular transport
+EX_HC00040_s,exchange,Glucose exchange with PhysiCell extracellular substrate
+EX_HC00017_s,exchange,Oxygen exchange with PhysiCell extracellular substrate
+EX_HC00021_s,exchange,CO2 exchange with PhysiCell extracellular substrate
+EX_HC00177_s,exchange,Lactate exchange with PhysiCell extracellular substrate
+EX_HC00011_s,exchange,Water exchange and mass-balance support
+EX_HC02131_c,exchange,Glycogenin boundary used in calibration tests
+EX_HC02134_c,exchange,Glycogenin-G4G7 boundary used in calibration tests
